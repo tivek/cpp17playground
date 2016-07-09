@@ -1,6 +1,6 @@
-#include <project_name/test_header.hpp>
+#include <cpp17playground/test_header.hpp>
 
-using namespace project_name;
+using namespace cpp17playground;
 
 int main() {
   A a{0, 1};

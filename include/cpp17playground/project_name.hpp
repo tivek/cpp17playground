@@ -1,7 +1,7 @@
 #pragma once
-/// \file project_name.hpp Includes all header files for the project
-#include <project_name/test_header.hpp>
-#include <project_name/component/component_header.hpp>
+/// \file cpp17playground.hpp Includes all header files for the project
+#include <cpp17playground/test_header.hpp>
+#include <cpp17playground/component/component_header.hpp>
 
 /*!
   @mainpage User Manual
@@ -11,7 +11,7 @@
   @section tutorial-description Description
 
   ------------------------------------------------------------------------------
-  This is the description of the project_name project.
+  This is the description of the cpp17playground project.
 
   @section another-section Another section
 

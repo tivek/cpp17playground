@@ -1,1 +1,6 @@
-int main() { return 0; }
+#include <vector>
+
+int main()
+{
+    return 0;
+}
