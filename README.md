@@ -1,4 +1,4 @@
-# C++ Skeleton <a href="https://travis-ci.org/gnzlbg/cpp_skeleton" target="_blank">![Build Status][badge.Travis]</a> <a href="https://coveralls.io/r/gnzlbg/cpp_skeleton" target="_blank">![Coverage Status][badge.Coveralls]</a>
+# C++ Skeleton <a href="https://travis-ci.org/tivek/cpp17playground" target="_blank">![Build Status][badge.Travis]</a> <a href="https://coveralls.io/r/gnzlbg/cpp_skeleton" target="_blank">![Coverage Status][badge.Coveralls]</a>
 > Your standard C++ project skeleton
 
 ## Disclaimer
